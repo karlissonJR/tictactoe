@@ -1,0 +1,9 @@
+.board-row {
+	clear: both;
+	content: '';
+	display: table;	
+}
+
+.status {
+	margin-bottom: 10px;
+}
